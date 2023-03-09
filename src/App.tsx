@@ -1,8 +1,7 @@
-function App() {
-  return (
-    <div>
-    </div>
-  )
-}
+import { type FC } from 'react';
 
-export default App
+const App: FC = () => {
+  return <div></div>;
+};
+
+export default App;
